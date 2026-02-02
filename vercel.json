@@ -1,1 +1,1 @@
-{\n  "buildCommand": "npm run build",\n  "outputDirectory": "dist",\n  "framework": "vite",\n  "nodeVersion": "18.x",\n  "env": {\n    "VITE_SUPABASE_URL": "@vite_supabase_url",\n    "VITE_SUPABASE_ANON_KEY": "@vite_supabase_anon_key"\n  }\n}
+{"rewrites": [{"source": "/(.*)", "destination": "/index.html"}]}
